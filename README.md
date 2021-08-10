@@ -49,6 +49,11 @@ python 3.7
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Feedback
+
+If you have any feedback, please reach out to us at madewithpy009@gmail.com
+
   
 ## Support
 
