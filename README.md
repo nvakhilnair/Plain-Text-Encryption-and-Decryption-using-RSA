@@ -1,7 +1,7 @@
 
 # Plain Text Encryption and Decryption using RSA Algorithm
 
-GUI application lets you create two separate python based GUI application for encryption and decryption of textual data. 
+GUI application lets you create two separate python based GUI applications for encryption and decryption of textual data. 
 ## Installation
 
 Installation of required libraries
